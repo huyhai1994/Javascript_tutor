@@ -7,3 +7,14 @@
 ## [[While and Do Loops]]
 
 ## [[Indenting Code]]
+
+## [[For Loops]]
+
+## [[Update Bindings Succinctly]]
+
+## [[Dispatching On a Value With Switch]]
+
+## [[Capitalization]]
+
+## [[Comment]]
+
