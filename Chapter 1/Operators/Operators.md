@@ -3,3 +3,4 @@ In JavaScript, an **operator** is a special symbol (or keyword) that tells the l
 Trong JavaScript, ***một toán tử*** là ký hiệu đặc biệt (hoặc từ khóa) cho ngôn ngữ biết thực hiện một ***phép toán*** trên một hoặc nhiều ***đối số*** (giá trị hoặc biểu thức) và tạo ra một giá trị mới.
 
 [[Unary Operators]]
+[[Logical Operators]]
