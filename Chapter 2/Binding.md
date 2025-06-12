@@ -132,3 +132,6 @@ thì cả hai “vòi xúc tu” `a` và `b` đều quấn vào **cùng** một 
 1. **Gán tham chiếu** (`let b = a`) → vòi `b` quấn vào cùng đối tượng với vòi `a`.
 2. **Đổi thuộc tính** qua `b` hay `a` đều sửa chung một đối tượng.
 3. **Gán lại biến** (`b = …`) chỉ thay đổi “đích” của vòi `b`, không làm ảnh hưởng đến vòi `a` hay đối tượng cũ.
+
+## Binding Name
+[[Binding Name]]
