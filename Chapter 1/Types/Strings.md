@@ -29,3 +29,4 @@
   `Half of 100 is ${100 / 2}`  // "Half of 100 is 50"
   ```
 * **Phương thức chuỗi:** Chuỗi có các phương thức tích hợp (ví dụ `.slice()`, `.toUpperCase()`) để thao tác thường gặp.
+
