@@ -2,5 +2,6 @@ Modern computers manage an immense “sea of bits,” subdividing these raw bits
 
 Máy tính hiện đại quản lý một “biển” bit khổng lồ, chia nhỏ các bit thô này thành những khối có ý nghĩa gọi là **giá trị**. Trong JavaScript, các giá trị—mặc dù cuối cùng đều là bit—đều có kiểu (ví dụ: số, chuỗi văn bản, hàm), và mỗi kiểu xác định cách giá trị đó hoạt động. Bạn chỉ cần gọi tên để tạo ra một giá trị; phía sau, giá trị đó sẽ được cấp phát bộ nhớ cho đến khi không còn được sử dụng, lúc đó các bit sẽ được thu hồi để tái sử dụng. Phần còn lại của chương sẽ giới thiệu các kiểu giá trị cơ bản (nguyên tố) trong JavaScript và các toán tử có thể thao tác trên chúng.
 
-## Number
+##  [[Number]]
+## [[Strings]]
 
