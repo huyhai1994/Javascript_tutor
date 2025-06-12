@@ -18,3 +18,7 @@ có các bit 8, 4 và 1 khác 0, cộng lại thành 13.
 
 ## Value
 [[Value]]
+## Type
+[[Types]]
+## Operators
+[[Operators]]
