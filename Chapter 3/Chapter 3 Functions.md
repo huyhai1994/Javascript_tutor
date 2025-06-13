@@ -65,3 +65,7 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 * Giảm lặp lại bằng cách gói logic chung vào hàm
 * Tạo “từ vựng” mới (tên hàm) để diễn đạt ý đồ rõ ràng
 * Mở rộng số lệnh tích hợp sẵn của ngôn ngữ, giữ cho mã ngắn gọn và linh hoạt
+
+## [[Defining A Function]]
+
+## [[Bindings and Scopes]]
