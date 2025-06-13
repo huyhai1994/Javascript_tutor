@@ -61,3 +61,24 @@
   * Thiếu `break` sẽ dẫn đến **fall-through**—tiếp tục chạy các case sau.
   * Có thể gom nhiều nhãn `case` trước cùng một khối mã để chia sẻ hành vi.
   * `default` là tùy chọn nhưng hữu ích để xử lý giá trị không ngờ tới.
+
+
+``` javascript
+
+let num = Number(prompt("Enter a numbers: "))
+switch (num) {
+  case 1:
+    console.log("You entered one");
+    break;
+  case 2:
+    console.log("You entered two");
+    break;
+  case 3:
+    console.log("You entered three");
+    break;
+  default:
+    console.log("You entered a number other than one, two, or three");
+    break;
+}
+
+```

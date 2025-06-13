@@ -8,8 +8,7 @@
 
 ---
 
-* Kiểu **number** trong JavaScript biểu diễn mọi giá trị số—nguyên hoặc thập phân—dưới dạng mẫu nhị phân 64-bit.
-* Viết `13` trong mã sẽ tạo ra mẫu 64-bit tương ứng với số 13 trong bộ nhớ.
+* Kiểu **number** trong JavaScript biểu diễn mọi giá trị số—nguyên hoặc thập phân—dưới dạng mẫu nhị phân 64-bit. * Viết `13` trong mã sẽ tạo ra mẫu 64-bit tương ứng với số 13 trong bộ nhớ.
 * Với 64 bit (2⁶⁴ ≈ 1,8×10¹⁹ mẫu), JavaScript có thể biểu diễn khoảng 18 tỉ tỉ giá trị khác nhau.
 * Một bit dành cho dấu, các bit còn lại mã hóa luỹ thừa và mantissa, cho phép lưu chính xác số nguyên tối đa khoảng 9 nghìn tỉ (10¹⁵).
 * Số thập phân được viết với dấu chấm (ví dụ `9.81`) hoặc ký hiệu khoa học với `e` (ví dụ `2.998e8` cho 2,998×10⁸).
