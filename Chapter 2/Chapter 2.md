@@ -1,24 +1,24 @@
-## [[Expressions And Statement]]
-## [[Binding]]
-## [[The Environment]]
-## [[Functions]]
+## 1. [[Expressions And Statement]]
+## 2. [[Binding]]
+## 3. [[The Environment]]
+## 4. [[Functions]]
 
-## [[Control flow]]
-## [[While and Do Loops]]
+## 5. [[Control flow]]
+## 6. [[While and Do Loops]]
 
-## [[Indenting Code]]
+## 7. [[Indenting Code]]
 
-## [[For Loops]]
+## 8. [[For Loops]]
 
-## [[Breaking out of a loop]]
+## 9. [[Breaking out of a loop]]
 
-## [[Update Bindings Succinctly]]
+## 10. [[Update Bindings Succinctly]]
 
-## [[Dispatching On a Value With Switch]]
+## 11. [[Dispatching On a Value With Switch]]
 
-## [[Capitalization]]
+## 12. [[Capitalization]]
 
-## [[Comment]]
+## 13. [[Comment]]
 
 ## [[Exercices]]
 
