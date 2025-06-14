@@ -76,4 +76,6 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 
 ## 5. [[Declaration Notation]]
 
-## 6 [[Arrow Function]]
+## 6. [[Arrow Function]]
+
+## 7. [[Call Stack]]
