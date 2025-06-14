@@ -1,4 +1,5 @@
 ![[call stack.png]]
+![[example call stack.png]]
 **Summary (English):**
 
 * When one function calls another, JavaScript remembers **where to return** by pushing a frame onto the **call stack**.
