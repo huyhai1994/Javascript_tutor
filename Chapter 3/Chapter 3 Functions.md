@@ -66,6 +66,12 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 * Tạo “từ vựng” mới (tên hàm) để diễn đạt ý đồ rõ ràng
 * Mở rộng số lệnh tích hợp sẵn của ngôn ngữ, giữ cho mã ngắn gọn và linh hoạt
 
-## [[Defining A Function]]
+## 1. [[Defining A Function]]
 
-## [[Bindings and Scopes]]
+## 2. [[Bindings and Scopes]]
+
+## 3. [[Nested Scope]]
+
+## 4.  [[Function as Values]]
+
+## 5. [[Declaration Notation]]
