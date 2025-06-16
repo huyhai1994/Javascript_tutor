@@ -79,3 +79,5 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 ## 6. [[Arrow Function]]
 
 ## 7. [[Call Stack]]
+
+## 8. [[Optional Argument]]

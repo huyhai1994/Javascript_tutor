@@ -10,6 +10,7 @@
      "5" - 1          // → 4       ("5" → 5)  
      "5" + 1          // → "51"    (1 → "1")  
      "five" * 2       // → NaN     ("five" → NaN)  
+	 undefined * undefined // -> NaN
      false == 0       // → true    (false → 0)  
      ```
    * Because of these rules, `==` and `!=` can yield surprising results. To avoid unwanted coercion, use the **strict** operators `===` and `!==`, which compare both type and value.
