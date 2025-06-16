@@ -81,3 +81,7 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 ## 7. [[Call Stack]]
 
 ## 8. [[Optional Argument]]
+
+## 9. [[Optional Argument]]
+
+## 10. [[Recursion]]
