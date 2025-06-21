@@ -16,3 +16,5 @@ Số, boolean và chuỗi là “nguyên tử” cơ bản của dữ liệu tro
 
 ## 5. [[Mutability]]
 
+## 6. [[Further Arrayology]]
+	
