@@ -82,6 +82,6 @@ Hàm trong JavaScript cho phép bạn đóng gói mã thành những khối có 
 
 ## 8. [[Optional Argument]]
 
-## 9. [[Optional Argument]]
+## 9. [[Closure]]
 
 ## 10. [[Recursion]]

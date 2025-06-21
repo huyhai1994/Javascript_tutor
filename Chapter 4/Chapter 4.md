@@ -11,3 +11,8 @@ Số, boolean và chuỗi là “nguyên tử” cơ bản của dữ liệu tro
 ## 2. [[Properties]]
 
 ## 3. [[Methods]]
+
+## 4. [[Objects]]
+
+## 5. [[Mutability]]
+

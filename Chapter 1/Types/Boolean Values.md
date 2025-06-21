@@ -1,4 +1,3 @@
-
 * JavaScript has a **Boolean** type with exactly two values: `true` and `false`.
 * **Comparison operators** produce Boolean results:
 
