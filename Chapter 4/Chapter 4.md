@@ -10,7 +10,7 @@ Số, boolean và chuỗi là “nguyên tử” cơ bản của dữ liệu tro
 ## 1. [[DataSets]]
 ## 2. [[Properties]]
 
-## 3. [[Methods]]
+## 3. [[Chapter 4/Methods]]
 
 ## 4. [[Objects]]
 

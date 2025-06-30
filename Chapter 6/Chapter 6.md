@@ -2,3 +2,4 @@
 In programming culture, *object-oriented programming* is a set of techniques that use objects as the central principle of program organization. 
 
 ## 1. [[Abstract Data Types]]
+## 2. [[Chapter 6/Methods|Methods]]
