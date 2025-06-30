@@ -1,3 +1,4 @@
+# Function
 ## Knuth quote
 
 That Knuth quote—“many people doing things that build on each other, like a wall of mini stones”—is a great lens for how **functions** work in JavaScript:

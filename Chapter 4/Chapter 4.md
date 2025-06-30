@@ -17,4 +17,14 @@ Số, boolean và chuỗi là “nguyên tử” cơ bản của dữ liệu tro
 ## 5. [[Mutability]]
 
 ## 6. [[Further Arrayology]]
-	
+
+## 7. [[Strings  and their Properties]]
+
+## 8. [[Rest Parameters]]
+
+## 9. [[The Math Object]]
+
+## 10. [[Destructuring]]
+## 11. [[Optional Property Access]]
+
+## 12. [[JSON]]
