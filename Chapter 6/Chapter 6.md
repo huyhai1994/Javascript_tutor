@@ -3,3 +3,7 @@ In programming culture, *object-oriented programming* is a set of techniques tha
 
 ## 1. [[Abstract Data Types]]
 ## 2. [[Chapter 6/Methods|Methods]]
+## 3. [[Prototypes]]
+
+## 4. [[Classes]]
+
