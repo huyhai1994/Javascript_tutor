@@ -7,3 +7,10 @@ In programming culture, *object-oriented programming* is a set of techniques tha
 
 ## 4. [[Classes]]
 
+## 5. [[Private Properties]]
+## 6. [[Maps]]
+## 7. [[The InstanceOf Operator]]
+
+
+
+
