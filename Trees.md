@@ -1,0 +1,1 @@
+We call a data structure a tree when it has a branching structure, no cycles (a node may not contain itself, directly or indirectly), and a single, well-defined root. In the case of the DOM, `document.documentElement` serves as the root. 

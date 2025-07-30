@@ -1,0 +1,2 @@
+- When a function cannot proceed normally, what we would often like to do is just stop what we are doing and immediately jump to a place that knows how to handle the problem. This is what `exception handling` does.
+- 

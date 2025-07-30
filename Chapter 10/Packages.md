@@ -1,0 +1,2 @@
+- One of the advantages of building a program out of separate pieces and being able to run some of those pieces on their own is that you might be able to use the same piece in different programs;
+- 

@@ -1,0 +1,9 @@
+- A computer can use the network to shoot bits at another computer. 
+- For any effective communication to arise out of this bit-shooting, the computers on both ends must know what the bits are supposed to represent. 
+- A `network protocol` describes a styles of communication over a network. There are protocols for sending email, for fetching email, for sharing files, and even for controlling computers that happen to be infected by malicious software. 
+- The `HyperText Transfer Protocal(HTTP)` is a protocol for retrieving named resources (chunks of information, such as web pages or pictures). 
+- Most protocols are built on top of other protocols. HTTP treats the network as a streamlike device into which you put bits and have them arrive at the correct destination in the correct order. Providing those guarantees on top of the primitive data-sending that the network gives you is already a rather tricky problem. 
+- The `Transmission Control Protocol (TCP)` is a protocol that addresses this problem. All internet-connected devices "speak" it, and most communication on the internet is built on top of it. 
+- A TCP connection works as follows: one computer must be waiting, or listening, for other computers to start talking to it. To be able to listen for different kinds of communication at the same time on a single machine, each listener has a number (called a port) associated with it. 
+- Another computer can then establish a connection by connecting to the target machine using the correct port number. If the target machine can be reached and is listening on that port, the connection is successfully created. The listening computer is called the server, and the connecting computer is called the client. 
+- Such a connection acts as a two-way pipe though which bits can flow - the machines on both ends can put data into it. Once the bits are successfully transmitted, they can be read out again by the machine on the other side. 
